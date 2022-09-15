@@ -6,3 +6,13 @@ Para a execução desse projeto ultilizei os seguinter ferramente e frameworks:
 -Microsoft Entity Framework SqlSever v3.1.8
 -Microsoft Entity Framework Tools v3.1.8
 -Microsoft VisualStudio Web CodeGeneration Design v3.1.5
+-bootstrap
+-Ajax
+-------------------------------------------------------------------------------------
+
+Linguagens: c#; HTML; JavaScript.
+
+-------------------------------------------------------------------------------------
+
+Para executar o projeto
+
