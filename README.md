@@ -11,8 +11,10 @@ Para a execução desse projeto ultilizei os seguinter ferramente e frameworks:
 -------------------------------------------------------------------------------------
 
 Linguagens: c#; HTML; JavaScript.
+Software: Visual Studio 2019
 
 -------------------------------------------------------------------------------------
 
-Para executar o projeto
+Para executar o projeto primeiramente tera que fazer um processo de push na plataforma GitHub, ultilizando o Git(ferramenta para baixar no computador), após upar os aquivos pelo processo de push, abra o executavel do Visual Studio que vai estar com o nome "AgendaTarefas.sln", logo depois o projeto ira abrir e então para definitivamente executalo, clique em "Depurar" na parte superior do Visual Studio e depois em "iniciar depuração", com isso o projeto sera executado e abrira em seu navegador padrão.
 
+Espero que gostem!!=)
